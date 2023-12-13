@@ -1057,7 +1057,7 @@ h3 {
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%) rotate(45deg);
-  background: #c78665;
+  background: rgb(199, 134, 101, 0.4);
   padding: 126px 55px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
